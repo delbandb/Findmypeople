@@ -582,7 +582,7 @@ public class Aplicacion extends javax.swing.JFrame {
         jPanel12.add(jTextField17, new org.netbeans.lib.awtextra.AbsoluteConstraints(260, 150, 201, -1));
 
         jButton3.setFont(new java.awt.Font("Arial Rounded MT Bold", 0, 18)); // NOI18N
-        jButton3.setIcon(new javax.swing.ImageIcon("C:\\Users\\delba\\OneDrive\\Desktop\\Curso java\\ProyectoJava24\\logos\\icons8-register-64.png")); // NOI18N
+        jButton3.setIcon(new javax.swing.ImageIcon("C:\\Users\\delba\\OneDrive\\Desktop\\Curso java\\ProyectoNavidad\\logos\\icons8-register-64.png")); // NOI18N
         jButton3.setText("Register");
         jButton3.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -647,7 +647,7 @@ public class Aplicacion extends javax.swing.JFrame {
         jMenuBar1.setCursor(new java.awt.Cursor(java.awt.Cursor.TEXT_CURSOR));
         jMenuBar1.setFont(new java.awt.Font("Sitka Display", 1, 18)); // NOI18N
 
-        jMenu1.setIcon(new javax.swing.ImageIcon("C:\\Users\\delba\\OneDrive\\Desktop\\Curso java\\ProyectoJava24\\logos\\icons8-asia-64.png")); // NOI18N
+        jMenu1.setIcon(new javax.swing.ImageIcon("C:\\Users\\delba\\OneDrive\\Desktop\\Curso java\\ProyectoNavidad\\logos\\icons8-asia-64.png")); // NOI18N
         jMenu1.setText("Find my people");
         jMenu1.setFont(new java.awt.Font("Rockwell", 1, 18)); // NOI18N
         jMenu1.addActionListener(new java.awt.event.ActionListener() {
@@ -657,7 +657,7 @@ public class Aplicacion extends javax.swing.JFrame {
         });
 
         jMenuItem9.setBackground(new java.awt.Color(51, 204, 0));
-        jMenuItem9.setIcon(new javax.swing.ImageIcon("C:\\Users\\delba\\OneDrive\\Desktop\\Curso java\\ProyectoJava24\\logos\\icons8-list-50.png")); // NOI18N
+        jMenuItem9.setIcon(new javax.swing.ImageIcon("C:\\Users\\delba\\OneDrive\\Desktop\\Curso java\\ProyectoNavidad\\logos\\icons8-list-50.png")); // NOI18N
         jMenuItem9.setText("List by name (A-Z)");
         jMenuItem9.setActionCommand("");
         jMenuItem9.addActionListener(new java.awt.event.ActionListener() {
@@ -667,7 +667,7 @@ public class Aplicacion extends javax.swing.JFrame {
         });
         jMenu1.add(jMenuItem9);
 
-        jMenuItem6.setIcon(new javax.swing.ImageIcon("C:\\Users\\delba\\OneDrive\\Desktop\\Curso java\\ProyectoJava24\\logos\\icons8-portrait-50.png")); // NOI18N
+        jMenuItem6.setIcon(new javax.swing.ImageIcon("C:\\Users\\delba\\OneDrive\\Desktop\\Curso java\\ProyectoNavidad\\logos\\icons8-portrait-50.png")); // NOI18N
         jMenuItem6.setText("Images");
         jMenuItem6.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -677,7 +677,7 @@ public class Aplicacion extends javax.swing.JFrame {
         jMenu1.add(jMenuItem6);
 
         jMenuItem7.setBackground(new java.awt.Color(255, 0, 0));
-        jMenuItem7.setIcon(new javax.swing.ImageIcon("C:\\Users\\delba\\OneDrive\\Desktop\\Curso java\\ProyectoJava24\\logos\\icons8-search-50.png")); // NOI18N
+        jMenuItem7.setIcon(new javax.swing.ImageIcon("C:\\Users\\delba\\OneDrive\\Desktop\\Curso java\\ProyectoNavidad\\logos\\icons8-search-50.png")); // NOI18N
         jMenuItem7.setText("Search");
         jMenuItem7.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -688,7 +688,7 @@ public class Aplicacion extends javax.swing.JFrame {
 
         jMenuBar1.add(jMenu1);
 
-        jMenu2.setIcon(new javax.swing.ImageIcon("C:\\Users\\delba\\OneDrive\\Desktop\\Curso java\\ProyectoJava24\\logos\\icons8-clothing-51.png")); // NOI18N
+        jMenu2.setIcon(new javax.swing.ImageIcon("C:\\Users\\delba\\OneDrive\\Desktop\\Curso java\\ProyectoNavidad\\logos\\icons8-clothing-51.png")); // NOI18N
         jMenu2.setText("Register ");
         jMenu2.setFont(new java.awt.Font("Rockwell", 1, 18)); // NOI18N
         jMenu2.addActionListener(new java.awt.event.ActionListener() {
@@ -697,7 +697,7 @@ public class Aplicacion extends javax.swing.JFrame {
             }
         });
 
-        jMenuItem5.setIcon(new javax.swing.ImageIcon("C:\\Users\\delba\\OneDrive\\Desktop\\Curso java\\ProyectoJava24\\logos\\icons8-register-30.png")); // NOI18N
+        jMenuItem5.setIcon(new javax.swing.ImageIcon("C:\\Users\\delba\\OneDrive\\Desktop\\Curso java\\ProyectoNavidad\\logos\\icons8-register-30.png")); // NOI18N
         jMenuItem5.setText("Register a new person");
         jMenuItem5.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -708,15 +708,15 @@ public class Aplicacion extends javax.swing.JFrame {
 
         jMenuBar1.add(jMenu2);
 
-        jMenu4.setIcon(new javax.swing.ImageIcon("C:\\Users\\delba\\OneDrive\\Desktop\\Curso java\\ProyectoJava24\\logos\\icons8-dove-64.png")); // NOI18N
+        jMenu4.setIcon(new javax.swing.ImageIcon("C:\\Users\\delba\\OneDrive\\Desktop\\Curso java\\ProyectoNavidad\\logos\\icons8-dove-64.png")); // NOI18N
         jMenu4.setText("About find my people");
         jMenu4.setFont(new java.awt.Font("Rockwell", 1, 18)); // NOI18N
 
-        jMenuItem8.setIcon(new javax.swing.ImageIcon("C:\\Users\\delba\\OneDrive\\Desktop\\Curso java\\ProyectoJava24\\logos\\icons8-middle-east-30.png")); // NOI18N
+        jMenuItem8.setIcon(new javax.swing.ImageIcon("C:\\Users\\delba\\OneDrive\\Desktop\\Curso java\\ProyectoNavidad\\logos\\icons8-middle-east-30.png")); // NOI18N
         jMenuItem8.setText("About the application");
         jMenu4.add(jMenuItem8);
 
-        jMenuItem10.setIcon(new javax.swing.ImageIcon("C:\\Users\\delba\\OneDrive\\Desktop\\Curso java\\ProyectoJava24\\logos\\icons8-writer-50.png")); // NOI18N
+        jMenuItem10.setIcon(new javax.swing.ImageIcon("C:\\Users\\delba\\OneDrive\\Desktop\\Curso java\\ProyectoNavidad\\logos\\icons8-writer-50.png")); // NOI18N
         jMenuItem10.setText("About the autor");
         jMenuItem10.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
