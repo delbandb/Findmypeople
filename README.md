@@ -8,3 +8,9 @@ When you register a new person it will be grabbed in our database and shortly af
 
 ![Screenshot 2024-01-20 014003](https://github.com/delbandb/Findmypeople/assets/147759857/6b39aabc-8972-4b70-8193-a39133b990a8)
 
+![Screenshot 2024-01-20 014442](https://github.com/delbandb/Findmypeople/assets/147759857/19abfc9e-4ef7-440c-9d83-e97a6656ae35)
+
+
+The database will be monitorized and actualized...
+![image](https://github.com/delbandb/Findmypeople/assets/147759857/a44faea5-623c-46ba-a404-a9a296365007)
+
